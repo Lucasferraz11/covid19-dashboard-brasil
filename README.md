@@ -66,7 +66,7 @@ estimated_population	INT	População estimada
 
 ✅ Segmentação por Estado (UF)
 
-![Dashboard COVID-19](./dashboard_powerbi.png)
+![Dashboard Power BI](dashboard_powerbi.png)
 
 🌐 Visualizações com Streamlit
 Dashboard interativo criado com Python, exibido no navegador com:
@@ -77,7 +77,7 @@ Gráfico de linha com evolução por data
 
 Gráfico de barras com Top 10 cidades
 
-![Dashboard Streamlit](./dashboard_streamlit.png)
+![Dashboard Streamlit](dashboard_streamlit.png)
 
 📌 Fonte dos Dados
 Dados públicos extraídos do repositório Brasil.IO, com base nos boletins das Secretarias Estaduais de Saúde.
