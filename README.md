@@ -65,8 +65,7 @@ estimated_population	INT	População estimada
 ✅ Gráfico de Linha: Evolução por Data
 
 ✅ Segmentação por Estado (UF)
-
-
+![Captura de tela 2025-06-24 160755](https://github.com/user-attachments/assets/949b38c1-c137-41b4-b9f4-2a1610720b83)
 
 🌐 Visualizações com Streamlit
 Dashboard interativo criado com Python, exibido no navegador com:
@@ -76,6 +75,8 @@ Filtro de estado (UF)
 Gráfico de linha com evolução por data
 
 Gráfico de barras com Top 10 cidades
+
+![image](https://github.com/user-attachments/assets/385bee82-fba2-437f-b2c5-822090e56a24)
 
 📌 Fonte dos Dados
 Dados públicos extraídos do repositório Brasil.IO, com base nos boletins das Secretarias Estaduais de Saúde.
